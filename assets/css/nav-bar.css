@@ -1,23 +1,23 @@
 .nav-bar{
-    position: absolute;
-    bottom: -30%;
+    /* position: absolute; */
+    bottom: -40%;
     width: 100vw;
     height: 45px;
     background-color: var(--gray);
 }
 .nav-bar img{
     width: 20px;
-    position: absolute;
+    position: relative;
 }
 .home{
     left: 11%;
     top: 25%;
 }
 .profile{
-    left: 47%;
-    top: 28%;
+    left: 41%;
+    top: 25%;
 }
 .burguer{
-    left: 83%;
-    top: 30%;
+    left: 70%;
+    top: 20%;
 }
