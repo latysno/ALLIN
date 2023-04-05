@@ -1,0 +1,26 @@
+.button-forms{
+    position: absolute;
+    width: 295px;
+    height: 35px;
+    top: 311px;
+    border: none;
+    background-color: var(--vermelho-queimado);
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    border-radius: 5px;
+}
+.button{
+    position: absolute;
+    width: 179px;
+    height: 35px;
+    top: 620px;
+    left: 97px;
+    border: none;
+    background-color: var(--vermelho-queimado);
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    border-radius: 5px;
+    
+}

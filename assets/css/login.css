@@ -29,18 +29,7 @@ input.pass-forms{
     border-radius: 5px;
     background-color: inherit;
 }
-.button-forms{
-    position: absolute;
-    width: 295px;
-    height: 35px;
-    top: 311px;
-    border: none;
-    background-color: var(--vermelho-queimado);
-    font-size: 15px;
-    font-weight: 600;
-    color: white;
-    border-radius: 5px;
-}
+
 .link-forms {
     text-align: center;
     position: absolute;

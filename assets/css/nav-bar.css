@@ -4,6 +4,7 @@
     width: 100vw;
     height: 45px;
     background-color: var(--gray);
+    margin-top: 50px;
 }
 .nav-bar img{
     width: 20px;

@@ -1,0 +1,58 @@
+
+.conteudo{
+    text-align: center;
+}
+.conteudo h1{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+}
+p{
+    margin: 10px 40px;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+    width: 295px;
+    height: 35px;
+    margin: 0 auto;
+    gap: 5px;
+}
+.forms input{
+    border: 2px solid var(--black);
+    border-radius: 5px;
+    background-color: inherit;
+    padding: 9px;
+    width: 295px;
+    
+}
+.radio{
+    margin: 10px 40px;
+}
+.patern-check{
+    display: flex;
+    flex-direction: column;
+    margin-right: 281px;
+    margin-top: 300px;
+}
+.check{
+    margin-bottom: 25px;
+}
+.button{
+    width: 179px;
+    height: 35px;
+    border: none;
+    background-color: var(--vermelho-queimado);
+    border-radius: 5px;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 10px;
+}
+.link a{
+    text-decoration: none;
+    color: var(--gray);
+}
